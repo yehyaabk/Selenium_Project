@@ -75,7 +75,7 @@ traveling_with_pet = True
 
 A demo video showing the bot's automated navigation on Booking.com is available below.
 
-<!-- Add the demo video link or embed here -->
+[Watch the demo video](https://www.youtube.com/watch?v=xAyPa0SfBLI)
 
 ## Results
 
@@ -109,5 +109,6 @@ pip install -r requirements.txt
 Modify the search parameters in the execution file, then run the main script:
 
 ```bash
+cd Booking_Bot
 python run.py
 ```
