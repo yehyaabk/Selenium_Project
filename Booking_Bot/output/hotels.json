@@ -1,0 +1,250 @@
+[
+    {
+        "Name": "Taksim Royal Central Hotel",
+        "Address": "Beyoglu, Istanbul",
+        "type": "Double Room",
+        "Score": "10",
+        "Review Number": 4,
+        "Price (TL)": 88432.0
+    },
+    {
+        "Name": "Nelly Guesthouse",
+        "Address": "Beyoglu, Istanbul",
+        "type": "Double or Twin Room with Shared Bathroom",
+        "Score": "9.1",
+        "Review Number": 232,
+        "Price (TL)": 89271.0
+    },
+    {
+        "Name": "Taksim Armoni Hotel",
+        "Address": "Beyoglu, Istanbul",
+        "type": "Double Room with Balcony",
+        "Score": "7.5",
+        "Review Number": 2,
+        "Price (TL)": 119811.0
+    },
+    {
+        "Name": "Sword Suit Hotel",
+        "Address": "Beyoglu, Istanbul",
+        "type": "Budget Double Room",
+        "Score": "8.7",
+        "Review Number": 158,
+        "Price (TL)": 122103.0
+    },
+    {
+        "Name": "Lyon Hotel by Taksim Square",
+        "Address": "Beyoglu, Istanbul",
+        "type": "One-Bedroom Apartment",
+        "Score": "No score yet",
+        "Review Number": 0,
+        "Price (TL)": 124238.0
+    },
+    {
+        "Name": "Taksim Luxury Capital Hotel",
+        "Address": "Beyoglu, Istanbul",
+        "type": "Deluxe Double Room",
+        "Score": "7.8",
+        "Review Number": 152,
+        "Price (TL)": 148389.0
+    },
+    {
+        "Name": "Taksim Luxury Beyo\u011flu Suites",
+        "Address": "Beyoglu, Istanbul",
+        "type": "Deluxe Quadruple Room",
+        "Score": "8.1",
+        "Review Number": 45,
+        "Price (TL)": 149756.0
+    },
+    {
+        "Name": "Eclipse Hotel",
+        "Address": "Beyoglu, Istanbul",
+        "type": "One-Bedroom Apartment",
+        "Score": "7.9",
+        "Review Number": 85,
+        "Price (TL)": 153768.0
+    },
+    {
+        "Name": "Beyzas Hotels &amp; Suites",
+        "Address": "Sisli, Istanbul",
+        "type": "Standard Double or Twin Room",
+        "Score": "8.1",
+        "Review Number": 970,
+        "Price (TL)": 154791.0
+    },
+    {
+        "Name": "Marida Residence - Istanbul Taksim",
+        "Address": "Beyoglu, Istanbul",
+        "type": "Executive Triple Room",
+        "Score": "7.1",
+        "Review Number": 367,
+        "Price (TL)": 160375.0
+    },
+    {
+        "Name": "Pesa Suites",
+        "Address": "Beyoglu, Istanbul",
+        "type": "Standard Double Room",
+        "Score": "7.3",
+        "Review Number": 167,
+        "Price (TL)": 164019.0
+    },
+    {
+        "Name": "Taksim Cihangir Fidan Residence Hotel",
+        "Address": "Beyoglu, Istanbul",
+        "type": "Deluxe Double Room with Balcony",
+        "Score": "8.0",
+        "Review Number": 326,
+        "Price (TL)": 166120.0
+    },
+    {
+        "Name": "Marida Suit - Istanbul Taksim",
+        "Address": "Beyoglu, Istanbul",
+        "type": "Studio Apartment",
+        "Score": "7.5",
+        "Review Number": 301,
+        "Price (TL)": 167995.0
+    },
+    {
+        "Name": "Life Span Hotels",
+        "Address": "Beyoglu, Istanbul",
+        "type": "Economy Double Room",
+        "Score": "7.1",
+        "Review Number": 217,
+        "Price (TL)": 173593.0
+    },
+    {
+        "Name": "Heart of Pera by Alyon Suite Hotel",
+        "Address": "Beyoglu, Istanbul",
+        "type": "Small Double Room",
+        "Score": "8.0",
+        "Review Number": 76,
+        "Price (TL)": 183456.0
+    },
+    {
+        "Name": "Hotel Fresia Istanbul",
+        "Address": "Beyoglu, Istanbul",
+        "type": "Standard Double Room",
+        "Score": "7.5",
+        "Review Number": 507,
+        "Price (TL)": 190691.0
+    },
+    {
+        "Name": "\u0130mmortal Hotel \u0130stanbul",
+        "Address": "Sisli, Istanbul",
+        "type": "Family Room with Balcony",
+        "Score": "8.5",
+        "Review Number": 214,
+        "Price (TL)": 217342.0
+    },
+    {
+        "Name": "Aycan Sultan Apart Hotel",
+        "Address": "Fatih, Istanbul",
+        "type": "Studio Apartment with Sea View",
+        "Score": "8.1",
+        "Review Number": 656,
+        "Price (TL)": 231675.0
+    },
+    {
+        "Name": "White Suites Hotel \u0130stanbul",
+        "Address": "Sisli, Istanbul",
+        "type": "Apartment with Balcony",
+        "Score": "8.6",
+        "Review Number": 239,
+        "Price (TL)": 233289.0
+    },
+    {
+        "Name": "King Suite Hotel Be\u015fikta\u015f",
+        "Address": "Besiktas, Istanbul",
+        "type": "Deluxe King Suite",
+        "Score": "7.4",
+        "Review Number": 13,
+        "Price (TL)": 244995.0
+    },
+    {
+        "Name": "DT Suites",
+        "Address": "Beyoglu, Istanbul",
+        "type": "Suite Apartment",
+        "Score": "7.8",
+        "Review Number": 4,
+        "Price (TL)": 256280.0
+    },
+    {
+        "Name": "Tare Houses",
+        "Address": "Besiktas, Istanbul",
+        "type": "Superior Double Room",
+        "Score": "8.7",
+        "Review Number": 204,
+        "Price (TL)": 260526.0
+    },
+    {
+        "Name": "Hay Rezidans",
+        "Address": "Beyoglu, Istanbul",
+        "type": "Standard Suite",
+        "Score": "9.5",
+        "Review Number": 8,
+        "Price (TL)": 242369.0
+    },
+    {
+        "Name": "The Galata Glory Hotel",
+        "Address": "Beyoglu, Istanbul",
+        "type": "Economy Double or Twin Room",
+        "Score": "8.4",
+        "Review Number": 546,
+        "Price (TL)": 268111.0
+    },
+    {
+        "Name": "The Peace Heritage Taksim",
+        "Address": "Beyoglu, Istanbul",
+        "type": "Standard Double Room",
+        "Score": "10",
+        "Review Number": 6,
+        "Price (TL)": 306457.0
+    },
+    {
+        "Name": "Seatanbul Hotel",
+        "Address": "Fatih, Istanbul",
+        "type": "Family Room with Balcony",
+        "Score": "8.5",
+        "Review Number": 846,
+        "Price (TL)": 380992.0
+    },
+    {
+        "Name": "A Cozy, Quiet Home with Great View in City Center",
+        "Address": "Sisli, Istanbul",
+        "type": "One-Bedroom Apartment",
+        "Score": "10",
+        "Review Number": 2,
+        "Price (TL)": 384262.0
+    },
+    {
+        "Name": "Castellion Hotels Galata",
+        "Address": "Beyoglu, Istanbul",
+        "type": "Superior Double or Twin Room",
+        "Score": "8.8",
+        "Review Number": 13,
+        "Price (TL)": 390095.0
+    },
+    {
+        "Name": "\u0130STANBUL Taksim Palece OTEL",
+        "Address": "Beyoglu, Istanbul",
+        "type": "Family Room",
+        "Score": "No score yet",
+        "Review Number": 0,
+        "Price (TL)": 940633.0
+    },
+    {
+        "Name": "Deluxe Duplex w 210 Bosphorus View in Cihangir",
+        "Address": "Beyoglu, Istanbul",
+        "type": "Two-Bedroom Apartment with Balcony and Sea View",
+        "Score": "No score yet",
+        "Review Number": 0,
+        "Price (TL)": 968169.0
+    },
+    {
+        "Name": "Spacious Dublex in Cihangir",
+        "Address": "Beyoglu, Istanbul",
+        "type": "One-Bedroom Apartment",
+        "Score": "No score yet",
+        "Review Number": 0,
+        "Price (TL)": 1352589.0
+    }
+]
