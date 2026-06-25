@@ -82,7 +82,7 @@ A demo video showing the bot's automated navigation on Booking.com is available 
 Once the execution is complete, the collected data is saved in two formats:
 
 - A **JSON** file ([example here](./Booking_Bot/output/hotels.json)), easily usable by other programs or scripts
-- A **text file in table format** ([example here](./Booking_Bot/hotels.txt)), directly readable by a human
+- A **text file in table format** ([example here](./Booking_Bot/output/hotels.txt)), directly readable by a human
 
 This dual saving method allows the data collection process to be fully automated, while still keeping the ability to quickly review the results in a clear and organized way.
 
