@@ -1,2 +1,2 @@
-DURATION=0.01
+DURATION=0.3
 BASE_URL="https://www.booking.com/"

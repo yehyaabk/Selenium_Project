@@ -7,12 +7,12 @@ from selenium.common.exceptions import TimeoutException
 
 with Booking() as bot:
     #Search parameters / user inputs
-    currency = 'TRY'
-    place_to_go = 'Istanbul'
+    currency = 'USD'
+    place_to_go = 'Paris'
     check_in_date = "2026-06-27"
     check_out_date = "2026-08-20"
-    adults = 2
-    rooms = 1
+    adults = 4
+    rooms = 2
     traveling_with_pet = True
     # if you want to filter by star rating
     # stars=(2, 3, 4)
@@ -29,7 +29,7 @@ with Booking() as bot:
     bot.go_to_search(traveling_with_pet)
     bot.close_map()
     # bot.filter_by_stars(*stars)
-    bot.free_cancellation() # if you only free cancellation  hotels
+    # bot.free_cancellation() # if you only free cancellation  hotels
     bot.sort_lowest_to_highest_price()
     bot.get_filtered_hotels()
 

@@ -1,250 +1,482 @@
 [
     {
-        "Name": "Taksim Royal Central Hotel",
-        "Address": "Beyoglu, Istanbul",
-        "type": "Double Room",
-        "Score": "10",
-        "Review Number": 4,
-        "Price (TL)": 88432.0
-    },
-    {
-        "Name": "Nelly Guesthouse",
-        "Address": "Beyoglu, Istanbul",
-        "type": "Double or Twin Room with Shared Bathroom",
-        "Score": "9.1",
-        "Review Number": 232,
-        "Price (TL)": 89271.0
-    },
-    {
-        "Name": "Taksim Armoni Hotel",
-        "Address": "Beyoglu, Istanbul",
-        "type": "Double Room with Balcony",
-        "Score": "7.5",
-        "Review Number": 2,
-        "Price (TL)": 119811.0
-    },
-    {
-        "Name": "Sword Suit Hotel",
-        "Address": "Beyoglu, Istanbul",
-        "type": "Budget Double Room",
-        "Score": "8.7",
-        "Review Number": 158,
-        "Price (TL)": 122103.0
-    },
-    {
-        "Name": "Lyon Hotel by Taksim Square",
-        "Address": "Beyoglu, Istanbul",
-        "type": "One-Bedroom Apartment",
-        "Score": "No score yet",
-        "Review Number": 0,
-        "Price (TL)": 124238.0
-    },
-    {
-        "Name": "Taksim Luxury Capital Hotel",
-        "Address": "Beyoglu, Istanbul",
-        "type": "Deluxe Double Room",
-        "Score": "7.8",
-        "Review Number": 152,
-        "Price (TL)": 148389.0
-    },
-    {
-        "Name": "Taksim Luxury Beyo\u011flu Suites",
-        "Address": "Beyoglu, Istanbul",
-        "type": "Deluxe Quadruple Room",
-        "Score": "8.1",
-        "Review Number": 45,
-        "Price (TL)": 149756.0
-    },
-    {
-        "Name": "Eclipse Hotel",
-        "Address": "Beyoglu, Istanbul",
-        "type": "One-Bedroom Apartment",
-        "Score": "7.9",
-        "Review Number": 85,
-        "Price (TL)": 153768.0
-    },
-    {
-        "Name": "Beyzas Hotels &amp; Suites",
-        "Address": "Sisli, Istanbul",
-        "type": "Standard Double or Twin Room",
-        "Score": "8.1",
-        "Review Number": 970,
-        "Price (TL)": 154791.0
-    },
-    {
-        "Name": "Marida Residence - Istanbul Taksim",
-        "Address": "Beyoglu, Istanbul",
-        "type": "Executive Triple Room",
-        "Score": "7.1",
-        "Review Number": 367,
-        "Price (TL)": 160375.0
-    },
-    {
-        "Name": "Pesa Suites",
-        "Address": "Beyoglu, Istanbul",
-        "type": "Standard Double Room",
-        "Score": "7.3",
-        "Review Number": 167,
-        "Price (TL)": 164019.0
-    },
-    {
-        "Name": "Taksim Cihangir Fidan Residence Hotel",
-        "Address": "Beyoglu, Istanbul",
-        "type": "Deluxe Double Room with Balcony",
-        "Score": "8.0",
-        "Review Number": 326,
-        "Price (TL)": 166120.0
-    },
-    {
-        "Name": "Marida Suit - Istanbul Taksim",
-        "Address": "Beyoglu, Istanbul",
-        "type": "Studio Apartment",
-        "Score": "7.5",
-        "Review Number": 301,
-        "Price (TL)": 167995.0
-    },
-    {
-        "Name": "Life Span Hotels",
-        "Address": "Beyoglu, Istanbul",
-        "type": "Economy Double Room",
-        "Score": "7.1",
-        "Review Number": 217,
-        "Price (TL)": 173593.0
-    },
-    {
-        "Name": "Heart of Pera by Alyon Suite Hotel",
-        "Address": "Beyoglu, Istanbul",
-        "type": "Small Double Room",
-        "Score": "8.0",
-        "Review Number": 76,
-        "Price (TL)": 183456.0
-    },
-    {
-        "Name": "Hotel Fresia Istanbul",
-        "Address": "Beyoglu, Istanbul",
-        "type": "Standard Double Room",
-        "Score": "7.5",
-        "Review Number": 507,
-        "Price (TL)": 190691.0
-    },
-    {
-        "Name": "\u0130mmortal Hotel \u0130stanbul",
-        "Address": "Sisli, Istanbul",
-        "type": "Family Room with Balcony",
-        "Score": "8.5",
-        "Review Number": 214,
-        "Price (TL)": 217342.0
-    },
-    {
-        "Name": "Aycan Sultan Apart Hotel",
-        "Address": "Fatih, Istanbul",
-        "type": "Studio Apartment with Sea View",
-        "Score": "8.1",
-        "Review Number": 656,
-        "Price (TL)": 231675.0
-    },
-    {
-        "Name": "White Suites Hotel \u0130stanbul",
-        "Address": "Sisli, Istanbul",
-        "type": "Apartment with Balcony",
+        "Name": "Le Jardin de Verre by Locke",
+        "Address": "5th arr., Paris",
+        "type": "City Studio",
         "Score": "8.6",
-        "Review Number": 239,
-        "Price (TL)": 233289.0
+        "Review Number": 1263,
+        "Price (US$)": 26766.0
     },
     {
-        "Name": "King Suite Hotel Be\u015fikta\u015f",
-        "Address": "Besiktas, Istanbul",
-        "type": "Deluxe King Suite",
-        "Score": "7.4",
-        "Review Number": 13,
-        "Price (TL)": 244995.0
+        "Name": "Isly",
+        "Address": "8th arr., Paris",
+        "type": "Three-Bedroom Apartment",
+        "Score": "No score yet",
+        "Review Number": 0,
+        "Price (US$)": 32528.0
     },
     {
-        "Name": "DT Suites",
-        "Address": "Beyoglu, Istanbul",
-        "type": "Suite Apartment",
-        "Score": "7.8",
-        "Review Number": 4,
-        "Price (TL)": 256280.0
-    },
-    {
-        "Name": "Tare Houses",
-        "Address": "Besiktas, Istanbul",
-        "type": "Superior Double Room",
-        "Score": "8.7",
-        "Review Number": 204,
-        "Price (TL)": 260526.0
-    },
-    {
-        "Name": "Hay Rezidans",
-        "Address": "Beyoglu, Istanbul",
-        "type": "Standard Suite",
-        "Score": "9.5",
-        "Review Number": 8,
-        "Price (TL)": 242369.0
-    },
-    {
-        "Name": "The Galata Glory Hotel",
-        "Address": "Beyoglu, Istanbul",
-        "type": "Economy Double or Twin Room",
-        "Score": "8.4",
-        "Review Number": 546,
-        "Price (TL)": 268111.0
-    },
-    {
-        "Name": "The Peace Heritage Taksim",
-        "Address": "Beyoglu, Istanbul",
-        "type": "Standard Double Room",
-        "Score": "10",
-        "Review Number": 6,
-        "Price (TL)": 306457.0
-    },
-    {
-        "Name": "Seatanbul Hotel",
-        "Address": "Fatih, Istanbul",
-        "type": "Family Room with Balcony",
-        "Score": "8.5",
-        "Review Number": 846,
-        "Price (TL)": 380992.0
-    },
-    {
-        "Name": "A Cozy, Quiet Home with Great View in City Center",
-        "Address": "Sisli, Istanbul",
-        "type": "One-Bedroom Apartment",
-        "Score": "10",
+        "Name": "Champs-\u00c9lys\u00e9es Luxury Suite",
+        "Address": "8th arr., Paris",
+        "type": "Four-Bedroom Apartment",
+        "Score": "5.5",
         "Review Number": 2,
-        "Price (TL)": 384262.0
+        "Price (US$)": 72980.0
     },
     {
-        "Name": "Castellion Hotels Galata",
-        "Address": "Beyoglu, Istanbul",
-        "type": "Superior Double or Twin Room",
-        "Score": "8.8",
+        "Name": "Sublime suite Avenue des Champs-\u00c9lys\u00e9es",
+        "Address": "8th arr., Paris",
+        "type": "Two-Bedroom Apartment",
+        "Score": "1.0",
+        "Review Number": 2,
+        "Price (US$)": 76258.0
+    },
+    {
+        "Name": "4 Suites, Av des Champs-Elys\u00e9es",
+        "Address": "8th arr., Paris",
+        "type": "Four-Bedroom Apartment",
+        "Score": "No score yet",
+        "Review Number": 0,
+        "Price (US$)": 80692.0
+    },
+    {
+        "Name": "Champs-Elysees Prestige 4 Bedrooms 12 Guests",
+        "Address": "8th arr., Paris",
+        "type": "Apartment",
+        "Score": "1.0",
+        "Review Number": 1,
+        "Price (US$)": 82005.0
+    },
+    {
+        "Name": "luxurious apartment Av des Champs-\u00c9lys\u00e9e",
+        "Address": "8th arr., Paris",
+        "type": "Apartment",
+        "Score": "No score yet",
+        "Review Number": 0,
+        "Price (US$)": 83970.0
+    },
+    {
+        "Name": "Bluestay 846 - Superbe appartement",
+        "Address": "17th arr., Paris",
+        "type": "Apartment",
+        "Score": "No score yet",
+        "Review Number": 0,
+        "Price (US$)": 8278.0
+    },
+    {
+        "Name": "Vue sur Paris",
+        "Address": "Ivry-sur-Seine",
+        "type": "Apartment",
+        "Score": "5.6",
+        "Review Number": 26,
+        "Price (US$)": 9394.0
+    },
+    {
+        "Name": "Aparthotel Adagio Access Paris Maisons-Alfort",
+        "Address": "Maisons-Alfort",
+        "type": "Studio (2 Adultes) Comfort",
+        "Score": "7.7",
+        "Review Number": 2313,
+        "Price (US$)": 9787.0
+    },
+    {
+        "Name": "Studio dans le 17\u00e8me, \u00e0 2km de Sacr\u00e9 C\u0153ur",
+        "Address": "17th arr., Paris",
+        "type": "One-Bedroom Apartment",
+        "Score": "7.5",
+        "Review Number": 2,
+        "Price (US$)": 10694.0
+    },
+    {
+        "Name": "H\u00f4tel des Bains 24h 7j Paris centre \u00e0 10 min",
+        "Address": "Maisons-Alfort",
+        "type": "Standard Double Room",
+        "Score": "7.7",
+        "Review Number": 525,
+        "Price (US$)": 10964.0
+    },
+    {
+        "Name": "Aparthotel Adagio Access Paris Quai d'Ivry",
+        "Address": "Ivry-sur-Seine",
+        "type": "Studio (2 Adults)",
+        "Score": "8.0",
+        "Review Number": 3644,
+        "Price (US$)": 11128.0
+    },
+    {
+        "Name": "Grand F2 Roland Garros Paris Auteuil",
+        "Address": "Boulogne-Billancourt",
+        "type": "One-Bedroom Apartment",
+        "Score": "8.0",
+        "Review Number": 1,
+        "Price (US$)": 11326.0
+    },
+    {
+        "Name": "Maison Jardin Proche Paris",
+        "Address": "Villejuif",
+        "type": "One-Bedroom House",
+        "Score": "5.9",
+        "Review Number": 41,
+        "Price (US$)": 11697.0
+    },
+    {
+        "Name": "Aparthotel Adagio Access La D\u00e9fense - L\u00e9onard De Vinci",
+        "Address": "Courbevoie",
+        "type": "Studio (2 Adults)",
+        "Score": "7.0",
+        "Review Number": 1417,
+        "Price (US$)": 11999.0
+    },
+    {
+        "Name": "R\u00e9sidence H\u00f4tel Le Relais Am\u00e9lie",
+        "Address": "Clamart",
+        "type": "Apartment",
+        "Score": "8.7",
+        "Review Number": 138,
+        "Price (US$)": 12040.0
+    },
+    {
+        "Name": "Jacuzzi Romantique, Cosy, Home Cin\u00e9ma, Paris 10min",
+        "Address": "Clichy",
+        "type": "One-Bedroom Apartment",
+        "Score": "8.3",
+        "Review Number": 63,
+        "Price (US$)": 12586.0
+    },
+    {
+        "Name": "Residhome Paris Clamart",
+        "Address": "Clamart",
+        "type": "Superior Studio",
+        "Score": "8.4",
+        "Review Number": 1694,
+        "Price (US$)": 12841.0
+    },
+    {
+        "Name": "chez jules et remi",
+        "Address": "La Garenne-Colombes",
+        "type": "Three-Bedroom Apartment",
+        "Score": "9.0",
+        "Review Number": 1,
+        "Price (US$)": 12978.0
+    },
+    {
+        "Name": "Maison familiale",
+        "Address": "Rueil-Malmaison",
+        "type": "Four-Bedroom House",
+        "Score": "8.0",
+        "Review Number": 1,
+        "Price (US$)": 13097.0
+    },
+    {
+        "Name": "Adagio Paris 19\u00e8me Cit\u00e9 de la Musique",
+        "Address": "19th arr., Paris",
+        "type": "Small Studio (2 Adults)",
+        "Score": "7.7",
+        "Review Number": 1783,
+        "Price (US$)": 13516.0
+    },
+    {
+        "Name": "Appartement 9\u00e8me",
+        "Address": "9th arr., Paris",
+        "type": "One-Bedroom Apartment",
+        "Score": "9.0",
         "Review Number": 13,
-        "Price (TL)": 390095.0
+        "Price (US$)": 13917.0
     },
     {
-        "Name": "\u0130STANBUL Taksim Palece OTEL",
-        "Address": "Beyoglu, Istanbul",
-        "type": "Family Room",
-        "Score": "No score yet",
-        "Review Number": 0,
-        "Price (TL)": 940633.0
+        "Name": "Superbe appartement pr\u00e8s du m\u00e9tro 4 proche Paris",
+        "Address": "Bagneux",
+        "type": "Two-Bedroom Apartment",
+        "Score": "4.6",
+        "Review Number": 16,
+        "Price (US$)": 16047.0
     },
     {
-        "Name": "Deluxe Duplex w 210 Bosphorus View in Cihangir",
-        "Address": "Beyoglu, Istanbul",
-        "type": "Two-Bedroom Apartment with Balcony and Sea View",
-        "Score": "No score yet",
-        "Review Number": 0,
-        "Price (TL)": 968169.0
-    },
-    {
-        "Name": "Spacious Dublex in Cihangir",
-        "Address": "Beyoglu, Istanbul",
+        "Name": "Un petit cocon en plein c\u0153ur du 11eme",
+        "Address": "11th arr., Paris",
         "type": "One-Bedroom Apartment",
         "Score": "No score yet",
         "Review Number": 0,
-        "Price (TL)": 1352589.0
+        "Price (US$)": 21087.0
+    },
+    {
+        "Name": "Modern's Hotel",
+        "Address": "12th arr., Paris",
+        "type": "Triple Room",
+        "Score": "3.7",
+        "Review Number": 1196,
+        "Price (US$)": 21170.0
+    },
+    {
+        "Name": "Appartement familial 140m2, vue Seine, 4 chambres",
+        "Address": "Boulogne-Billancourt",
+        "type": "Apartment",
+        "Score": "7.3",
+        "Review Number": 3,
+        "Price (US$)": 22307.0
+    },
+    {
+        "Name": "Appartement Paris 12 proche du centre avec parking",
+        "Address": "12th arr., Paris",
+        "type": "Two-Bedroom Apartment",
+        "Score": "5.9",
+        "Review Number": 6,
+        "Price (US$)": 25372.0
+    },
+    {
+        "Name": "LUXURY FLAT WITH PRIVATE ROOFTOP - Paris 18",
+        "Address": "18th arr., Paris",
+        "type": "One-Bedroom Apartment",
+        "Score": "5.3",
+        "Review Number": 36,
+        "Price (US$)": 27680.0
+    },
+    {
+        "Name": "Appartement 3 pi\u00e8ces Paris 11e",
+        "Address": "11th arr., Paris",
+        "type": "Two-Bedroom Apartment",
+        "Score": "No score yet",
+        "Review Number": 0,
+        "Price (US$)": 28115.0
+    },
+    {
+        "Name": "Le Nid D'Aigle",
+        "Address": "20th arr., Paris",
+        "type": "One-Bedroom Apartment",
+        "Score": "9.9",
+        "Review Number": 22,
+        "Price (US$)": 28858.0
+    },
+    {
+        "Name": "Modern Studio Apartment Champs \u00c9lys\u00e9es Stars",
+        "Address": "17th arr., Paris",
+        "type": "One-Bedroom Apartment",
+        "Score": "1.0",
+        "Review Number": 1,
+        "Price (US$)": 30654.0
+    },
+    {
+        "Name": "Appartement Rue Alesia",
+        "Address": "14th arr., Paris",
+        "type": "One-Bedroom Apartment",
+        "Score": "No score yet",
+        "Review Number": 0,
+        "Price (US$)": 52404.0
+    },
+    {
+        "Name": "Lavie Maison Luminous Appartement near Montmartre",
+        "Address": "17th arr., Paris",
+        "type": "One-Bedroom Apartment",
+        "Score": "No score yet",
+        "Review Number": 0,
+        "Price (US$)": 578082.0
+    },
+    {
+        "Name": "Bluestay 850 - Superb apartment",
+        "Address": "17th arr., Paris",
+        "type": "Apartment",
+        "Score": "No score yet",
+        "Review Number": 0,
+        "Price (US$)": 665512.0
+    },
+    {
+        "Name": "Center next to castle and park",
+        "Address": "Versailles",
+        "type": "Three-Bedroom Apartment",
+        "Score": "6.5",
+        "Review Number": 4,
+        "Price (US$)": 4217.0
+    },
+    {
+        "Name": "Appartement Cosy sur Cour - Nanterre Ville RER A",
+        "Address": "Nanterre",
+        "type": "One-Bedroom Apartment",
+        "Score": "No score yet",
+        "Review Number": 0,
+        "Price (US$)": 4831.0
+    },
+    {
+        "Name": "15 min Paris",
+        "Address": "Drancy",
+        "type": "Double Room",
+        "Score": "2.4",
+        "Review Number": 10,
+        "Price (US$)": 5452.0
+    },
+    {
+        "Name": "Studio haut standing confort et modernit\u00e9",
+        "Address": "Clichy-sous-Bois",
+        "type": "One-Bedroom Apartment",
+        "Score": "9.6",
+        "Review Number": 12,
+        "Price (US$)": 5669.0
+    },
+    {
+        "Name": "Appart'City Collection Paris V\u00e9lizy",
+        "Address": "V\u00e9lizy-Villacoublay",
+        "type": "One-Bedroom Apartment",
+        "Score": "9.0",
+        "Review Number": 770,
+        "Price (US$)": 7888.0
+    },
+    {
+        "Name": "Appartement entre Paris &amp; Disney",
+        "Address": "Le Perreux-Sur-Marne",
+        "type": "Two-Bedroom Apartment",
+        "Score": "7.5",
+        "Review Number": 4,
+        "Price (US$)": 8232.0
+    },
+    {
+        "Name": "maisonnette jardin paris disney",
+        "Address": "Neuilly-Plaisance",
+        "type": "One-Bedroom Apartment",
+        "Score": "No score yet",
+        "Review Number": 0,
+        "Price (US$)": 8329.0
+    },
+    {
+        "Name": "Villa Paris Orly",
+        "Address": "Rungis",
+        "type": "Double Room",
+        "Score": "7.6",
+        "Review Number": 4841,
+        "Price (US$)": 8577.0
+    },
+    {
+        "Name": "La rose des sables",
+        "Address": "Garges-l\u00e8s-Gonesse",
+        "type": "One-Bedroom House",
+        "Score": "8.1",
+        "Review Number": 8,
+        "Price (US$)": 9061.0
+    },
+    {
+        "Name": "l'Escale",
+        "Address": "Athis-Mons",
+        "type": "One-Bedroom Apartment",
+        "Score": "8.9",
+        "Review Number": 99,
+        "Price (US$)": 9663.0
+    },
+    {
+        "Name": "L'envol",
+        "Address": "Athis-Mons",
+        "type": "One-Bedroom Apartment",
+        "Score": "8.4",
+        "Review Number": 34,
+        "Price (US$)": 9663.0
+    },
+    {
+        "Name": "Aparthotel Adagio Access Paris Clamart",
+        "Address": "Clamart",
+        "type": "Studio (2 Adults)",
+        "Score": "7.6",
+        "Review Number": 931,
+        "Price (US$)": 9766.0
+    },
+    {
+        "Name": "Appart95 Saint-Brice CDG France",
+        "Address": "Saint-Brice-sous-For\u00eat",
+        "type": "Apartment with Balcony",
+        "Score": "6.4",
+        "Review Number": 6,
+        "Price (US$)": 15192.0
+    },
+    {
+        "Name": "T4 moderne, proche La D\u00e9fense",
+        "Address": "Bezons",
+        "type": "Three-Bedroom Apartment",
+        "Score": "No score yet",
+        "Review Number": 0,
+        "Price (US$)": 16321.0
+    },
+    {
+        "Name": "Luxury house - 4P Versailles",
+        "Address": "Bailly",
+        "type": "Two-Bedroom Villa",
+        "Score": "No score yet",
+        "Review Number": 0,
+        "Price (US$)": 22598.0
+    },
+    {
+        "Name": "Maison duplex \u00e0 Saint-Maur-des-Foss\u00e9s 87m2",
+        "Address": "Saint-Maur-des-Foss\u00e9s",
+        "type": "Three-Bedroom Villa",
+        "Score": "No score yet",
+        "Review Number": 0,
+        "Price (US$)": 41767.0
+    },
+    {
+        "Name": "\u00c0 7 minutes de la gare de Houilles",
+        "Address": "Houilles",
+        "type": "One-Bedroom Apartment",
+        "Score": "1.0",
+        "Review Number": 3,
+        "Price (US$)": 70752.0
+    },
+    {
+        "Name": "La Villa Jacuzzi et Cin\u00e9ma \"LES 300\" \u00e0 15 min de Paris JO 2024 et du Stade de France TARIFS PRIVILEGES SEMAINE OU MOIS DISPONIBLE",
+        "Address": "Montigny-l\u00e8s-Cormeilles",
+        "type": "Three-Bedroom Villa",
+        "Score": "3.0",
+        "Review Number": 2,
+        "Price (US$)": 131179.0
+    },
+    {
+        "Name": "Appart'City Confort St Quentin en Yvelines - Bois D'Arcy",
+        "Address": "Bois-d\u02bcArcy",
+        "type": "Superior One Bedroom Apartment",
+        "Score": "8.6",
+        "Review Number": 1301,
+        "Price (US$)": 6744.0
+    },
+    {
+        "Name": "Aparthotel Adagio Access Carri\u00e8res Sous Poissy",
+        "Address": "Carri\u00e8res-sous-Poissy",
+        "type": "Studio",
+        "Score": "7.8",
+        "Review Number": 724,
+        "Price (US$)": 6890.0
+    },
+    {
+        "Name": "Le KA NOE",
+        "Address": "Vaires-sur-Marne",
+        "type": "One-Bedroom Apartment",
+        "Score": "1.0",
+        "Review Number": 3,
+        "Price (US$)": 7783.0
+    },
+    {
+        "Name": "Maison 10min Roissy CDG",
+        "Address": "Mitry-Mory",
+        "type": "Two-Bedroom Villa",
+        "Score": "No score yet",
+        "Review Number": 0,
+        "Price (US$)": 10197.0
+    },
+    {
+        "Name": "Appartement 6 personnes avec jacuzzi",
+        "Address": "Torcy",
+        "type": "Two-Bedroom Apartment",
+        "Score": "1.0",
+        "Review Number": 1,
+        "Price (US$)": 10754.0
+    },
+    {
+        "Name": "Villa grand confort proche Versailles et Paris",
+        "Address": "Guyancourt",
+        "type": "Villa",
+        "Score": "10",
+        "Review Number": 1,
+        "Price (US$)": 23194.0
+    },
+    {
+        "Name": "Maison 8 pi\u00e8ces Spa jacuzzi Paris Airport CDG jardin arbor\u00e9 clos",
+        "Address": "Tremblay-En-France",
+        "type": "Five-Bedroom House",
+        "Score": "7.7",
+        "Review Number": 3,
+        "Price (US$)": 62959.0
     }
 ]

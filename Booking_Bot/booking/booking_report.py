@@ -20,6 +20,7 @@ def scroll_to_load_all_hotels(driver: WebDriver, pause_time=1, max_scrolls=20):
         if new_height == last_height:
             break  # no MORE new content loaded, STOP scrolling
         last_height = new_height
+    driver.execute_script("window.scrollTo(0, 0);")
 
 def get_hotels_container(driver:WebDriver)  :
     try:

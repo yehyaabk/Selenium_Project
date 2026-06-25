@@ -19,7 +19,7 @@ class Booking(webdriver.Chrome):
         self.accept_cookies= accept_cookies
         super().__init__(options=options)
         self.maximize_window()
-        self.implicitly_wait(15)
+        self.implicitly_wait(5)
 
     def land_first_page(self):
         self.get(const.BASE_URL)
@@ -200,8 +200,8 @@ class Booking(webdriver.Chrome):
             close_button = self.find_element(By.CSS_SELECTOR, 'button[aria-label="Close map"]')
             # print(close_button.get_attribute("outerHTML"))
             close_button.click()
-        except Exception as error:
-            print(error)
+        except NoSuchElementException:
+            print("No Map")
 
     def  free_cancellation(self):
         try :
@@ -229,7 +229,7 @@ class Booking(webdriver.Chrome):
         # print(type(hotel_cards))
         print(len(hotel_cards))
         hotels_data = extract_hotels_data(hotel_cards = hotel_cards)
-        print(hotels_data)
+        # print(hotels_data)
         save_as_json(hotels_data)
         save_as_table(hotels_data)
 
